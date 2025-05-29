@@ -1,4 +1,4 @@
-Linear Regression from Scratch
+## Linear Regression from Scratch
 
 The goal was to learn the fundamentals of supervised learning and optimization by building a working regression algorithm and applying it to the Iris dataset.
 
